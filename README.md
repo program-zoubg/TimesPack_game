@@ -1,2 +1,5 @@
 # TimesPack_game
-At 6/6/2023 20:00, We have stopped everything against QuanGuo_ Support for man games and some updates, this is a new game organizing project. Old game project address: https://www.github.com/QuanGuo_man/.
+At 6/6/2023 20:00, We have stopped everything against QuanGuo_man Support for games and some updates, this is a new game organizing project. Old game project address: https://www.github.com/program-zoubg/QuanGuo_man/.
+
+### And thanks:
+## PaJinSenhcy https://www.github.com/PaJinSenhcy/
